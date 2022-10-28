@@ -45,7 +45,8 @@ body{
     
 }
 .display-box{
-    background-color: aquamarine;
+    background-color: rgb(83, 142, 122);
+    color: black;
 }
 #btn{
     background-color: bisque;
